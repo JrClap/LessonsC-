@@ -1,0 +1,15 @@
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\bin\Debug\net6.0\Example003_MassiveTask.exe
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\bin\Debug\net6.0\Example003_MassiveTask.deps.json
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\bin\Debug\net6.0\Example003_MassiveTask.runtimeconfig.json
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\bin\Debug\net6.0\Example003_MassiveTask.dll
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\bin\Debug\net6.0\Example003_MassiveTask.pdb
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\obj\Debug\net6.0\Example003_MassiveTask.csproj.AssemblyReference.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\obj\Debug\net6.0\Example003_MassiveTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\obj\Debug\net6.0\Example003_MassiveTask.AssemblyInfoInputs.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\obj\Debug\net6.0\Example003_MassiveTask.AssemblyInfo.cs
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\obj\Debug\net6.0\Example003_MassiveTask.csproj.CoreCompileInputs.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\obj\Debug\net6.0\Example003_MassiveTask.dll
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\obj\Debug\net6.0\refint\Example003_MassiveTask.dll
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\obj\Debug\net6.0\Example003_MassiveTask.pdb
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\obj\Debug\net6.0\Example003_MassiveTask.genruntimeconfig.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example003_MassiveTask\obj\Debug\net6.0\ref\Example003_MassiveTask.dll
