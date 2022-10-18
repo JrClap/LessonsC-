@@ -1,0 +1,15 @@
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\bin\Debug\net6.0\Example004_MassiveTaskRandom.exe
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\bin\Debug\net6.0\Example004_MassiveTaskRandom.deps.json
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\bin\Debug\net6.0\Example004_MassiveTaskRandom.runtimeconfig.json
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\bin\Debug\net6.0\Example004_MassiveTaskRandom.dll
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\bin\Debug\net6.0\Example004_MassiveTaskRandom.pdb
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\obj\Debug\net6.0\Example004_MassiveTaskRandom.csproj.AssemblyReference.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\obj\Debug\net6.0\Example004_MassiveTaskRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\obj\Debug\net6.0\Example004_MassiveTaskRandom.AssemblyInfoInputs.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\obj\Debug\net6.0\Example004_MassiveTaskRandom.AssemblyInfo.cs
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\obj\Debug\net6.0\Example004_MassiveTaskRandom.csproj.CoreCompileInputs.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\obj\Debug\net6.0\Example004_MassiveTaskRandom.dll
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\obj\Debug\net6.0\refint\Example004_MassiveTaskRandom.dll
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\obj\Debug\net6.0\Example004_MassiveTaskRandom.pdb
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\obj\Debug\net6.0\Example004_MassiveTaskRandom.genruntimeconfig.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example004_MassiveTaskRandom\obj\Debug\net6.0\ref\Example004_MassiveTaskRandom.dll
