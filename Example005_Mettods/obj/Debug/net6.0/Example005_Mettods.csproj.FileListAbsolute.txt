@@ -1,0 +1,15 @@
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\bin\Debug\net6.0\Example005_Mettods.exe
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\bin\Debug\net6.0\Example005_Mettods.deps.json
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\bin\Debug\net6.0\Example005_Mettods.runtimeconfig.json
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\bin\Debug\net6.0\Example005_Mettods.dll
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\bin\Debug\net6.0\Example005_Mettods.pdb
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\obj\Debug\net6.0\Example005_Mettods.csproj.AssemblyReference.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\obj\Debug\net6.0\Example005_Mettods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\obj\Debug\net6.0\Example005_Mettods.AssemblyInfoInputs.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\obj\Debug\net6.0\Example005_Mettods.AssemblyInfo.cs
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\obj\Debug\net6.0\Example005_Mettods.csproj.CoreCompileInputs.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\obj\Debug\net6.0\Example005_Mettods.dll
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\obj\Debug\net6.0\refint\Example005_Mettods.dll
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\obj\Debug\net6.0\Example005_Mettods.pdb
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\obj\Debug\net6.0\Example005_Mettods.genruntimeconfig.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example005_Mettods\obj\Debug\net6.0\ref\Example005_Mettods.dll
