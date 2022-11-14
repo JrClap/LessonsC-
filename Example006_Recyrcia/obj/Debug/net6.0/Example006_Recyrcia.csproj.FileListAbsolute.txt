@@ -1,0 +1,15 @@
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\bin\Debug\net6.0\Example006_Recyrcia.exe
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\bin\Debug\net6.0\Example006_Recyrcia.deps.json
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\bin\Debug\net6.0\Example006_Recyrcia.runtimeconfig.json
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\bin\Debug\net6.0\Example006_Recyrcia.dll
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\bin\Debug\net6.0\Example006_Recyrcia.pdb
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\obj\Debug\net6.0\Example006_Recyrcia.csproj.AssemblyReference.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\obj\Debug\net6.0\Example006_Recyrcia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\obj\Debug\net6.0\Example006_Recyrcia.AssemblyInfoInputs.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\obj\Debug\net6.0\Example006_Recyrcia.AssemblyInfo.cs
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\obj\Debug\net6.0\Example006_Recyrcia.csproj.CoreCompileInputs.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\obj\Debug\net6.0\Example006_Recyrcia.dll
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\obj\Debug\net6.0\refint\Example006_Recyrcia.dll
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\obj\Debug\net6.0\Example006_Recyrcia.pdb
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\obj\Debug\net6.0\Example006_Recyrcia.genruntimeconfig.cache
+C:\Users\mrjrc\OneDrive\Desktop\lessons\Example006_Recyrcia\obj\Debug\net6.0\ref\Example006_Recyrcia.dll
